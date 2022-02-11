@@ -1,6 +1,6 @@
-# MIMO
+# MIPO
 
-Source code and dataset for "MIMO: Mutual Integration of Patient Journey and Medical Ontology for Healthcare Representation Learning"
+Source code and dataset for "MIPO: Mutual Integration of Patient Journey and Medical Ontology for Healthcare Representation Learning"
 
 ## Reqirements:
 
@@ -40,7 +40,7 @@ data_graph_building.py
 
 ##  Model Training:Validating:Testing
 ```bash
-mimo_train.py 
+mipo_train.py 
 --output_dir model_output_path 
 --data_dir processed_data_path 
 --data_source mimic
